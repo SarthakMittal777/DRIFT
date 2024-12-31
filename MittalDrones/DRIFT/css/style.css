@@ -6922,7 +6922,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 .header-style-4 .header-nav-request a i{margin-left: 10px;}
-.header-style-4 .is-fixed.color-fill .main-bar {background:rgba(0,0,0,0.8);}
+.header-style-4 .is-fixed.color-fill .main-bar {background:rgba(65,64,64,0.8);}
 
 .header-style-4 .header-nav .nav > li {font-weight: 500;   position: relative;   margin: 0px 0px;   padding: 10px 0px;}
 .header-style-4 .logo-header{padding-top:20px;}
@@ -7673,7 +7673,7 @@ margin: 0px 5px;}
 
 
 .footer-dark .footer-middle .footer-middle-content{
-	background-color: #000;
+	background-color: #616060;
 	display: flex;
 	padding: 20px;
 	justify-content: space-between;
